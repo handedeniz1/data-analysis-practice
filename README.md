@@ -1,19 +1,29 @@
-# Öğrenci Sınav Notları Analizi / Student Exam Scores Analysis
+# Data Analysis Practice
 
-Bu proje, basit bir **CSV dosyası** üzerinden temel **Python + Pandas veri analizi** ve **görselleştirme** örneği sunmaktadır.  
-Çalışma **Jupyter Notebook** ortamında yapılmış ve sonuçlar GitHub üzerinde paylaşılmıştır.
+Bu repo, veri analizi pratiği yapmak ve Python ile temel veri işleme ve görselleştirme becerilerini geliştirmek amacıyla oluşturulmuştur.  
 
-## 📊 İçerik / Contents
-- `ogrenciler.csv`: Örnek öğrenci sınav notları dataseti  
-- `ogrenci_analizi.ipynb`: Pandas ile veri analizi ve Matplotlib ile görselleştirme  
+## 📂 İçerik / Contents
+- `ogrenciler.csv` → Örnek öğrenci sınav notları dataseti  
+- `satis.csv` → Örnek satış verileri  
+- `ogrenci_ve_satis_analizi.ipynb` → Pandas ile veri analizi ve Matplotlib/Seaborn ile görselleştirme  
 
-## 🚀 Kullanılan Teknolojiler / Technologies Used
-- Python (Pandas, Matplotlib)
+## 🛠️ Kullanılan Teknolojiler / Technologies
+- Python
+- Pandas
+- Matplotlib
 - Jupyter Notebook
-- GitHub
+- Git / GitHub
 
-## 🎯 Öğrenim Hedefi / Learning Goal
-Bu proje, **temel veri analizi adımlarını öğrenmek** ve **GitHub portföyü oluşturmak** amacıyla yapılmıştır.  
-İlerleyen aşamalarda daha büyük ve gerçekçi datasetler üzerinde benzer analizler yapılacaktır.
+## 🎯 Proje Amaçları / Project Goals
+- CSV ve spreadsheet verilerini Python ile analiz etmek  
+- Verileri gruplamak ve özetlemek (groupby, pivot table)  
+- Verileri görselleştirmek (bar plot, line chart)  
+- GitHub üzerinden portföy yönetimi ve paylaşımı  
+
+## 📈 Öğrenim Hedefi / Learning Goals
+- Temel veri analizi ve görselleştirme becerilerini geliştirmek  
+- Gerçekçi küçük datasetler üzerinde uygulama yapmak  
+- GitHub ile proje paylaşımı ve sürüm kontrolü deneyimi kazanmak  
 
 ---
+
